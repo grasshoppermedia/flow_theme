@@ -9,3 +9,8 @@ git clone https://github.com/grasshoppermedia/flow_theme.git flow_child --branch
 mv flow_child/out/flow flow_child/out/flow_child
 
 ln -s ../application/views/flow_child/out/flow_child ../../out/flow_child
+
+theme.php für Childtheme anpassen
+
+Templates löschen
+
