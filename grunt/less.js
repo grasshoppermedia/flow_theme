@@ -11,13 +11,13 @@ module.exports = {
 
     theme: {
         files: {
-            "out/flow/src/css/styles.min.css": "build/less/flow.less"
+            "out/flow_child/src/css/styles.min.css": "build/less/flow.less"
         }
     },
 
     vendor: {
         files: {
-            "out/flow/src/css/libs/jquery.flexslider.min.css": "build/vendor/jquery-flexslider2/less/flexslider.less"
+            "out/flow_child/src/css/libs/jquery.flexslider.min.css": "build/vendor/jquery-flexslider2/less/flexslider.less"
         }
     }
 
