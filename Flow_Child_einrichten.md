@@ -12,5 +12,7 @@ ln -s ../application/views/flow_child/out/flow_child ../../out/flow_child
 
 theme.php für Childtheme anpassen
 
-Templates löschen
-
+Alle Dateien unter [Theme]/tpl/ gelöscht
+Alle Dateien unter [Theme]/src/ gelöscht außer [Theme]/theme.jpg und [Theme]/src/css
+Alle Dateien unter [Theme]/de/ gelöscht
+Alle Dateien unter [Theme]/en/ gelöscht
