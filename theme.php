@@ -23,10 +23,12 @@
  * Theme Information
  */
 $aTheme = array(
-    'id'           => 'flow',
-    'title'        => 'Flow',
-    'description'  => 'Flow is OXID`s official responsive theme based on the CSS framework Bootstrap 3.',
-    'thumbnail'    => 'theme.jpg',
-    'version'      => '1.0.0-beta.2',
-    'author'       => '<a href="http://www.oxid-esales.com" title="OXID eSales AG">OXID eSales AG</a>',
+    'id'             => 'flow_child',
+    'title'          => 'Child of Flow',
+    'description'    => 'Child of Flow. Flow is OXID`s official responsive theme based on the CSS framework Bootstrap 3.',
+    'thumbnail'      => 'theme.jpg',
+    'version'        => '1.0.0-beta.2',
+    'author'         => '<a href="http://www.oxid-esales.com" title="OXID eSales AG">OXID eSales AG</a>',
+    'parentTheme'    => 'flow',
+    'parentVersions' => array('1.0.0-beta.2'),
 );
